@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace UniClipboard
+namespace Kogane
 {
 	public static class Clipboard
 	{

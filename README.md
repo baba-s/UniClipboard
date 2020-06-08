@@ -1,11 +1,11 @@
-# Uni Clipboard
+﻿# Uni Clipboard
 
 * 文字列をクリップボードにコピーできるパッケージ
 
 ## 使用例
 
 ```cs
-using UniClipboard;
+using Kogane;
 using UnityEngine;
 
 public class Example : MonoBehaviour
